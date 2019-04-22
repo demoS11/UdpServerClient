@@ -1,4 +1,4 @@
-**1) YÖNTEM**
+﻿**1) YÖNTEM**
 
 **UDP:**
 
@@ -15,15 +15,3 @@
 *  RTT sürelerinin ortalamasını hesaplar ve başarılı cevapları konsola yazdırır, timeout olursa SoketTimeOutException(İstek Zaman Aşımına Uğradı) verir.
 
  
-
- **3) SONUÇ**
-
-![1555966757396](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1555966757396.png)
-
-
-
-![1555966770883](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1555966770883.png)
-
-
-
-![1555966792847](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1555966792847.png)
